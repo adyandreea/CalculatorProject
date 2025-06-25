@@ -33,6 +33,8 @@
             displayLabel.setText("0");
             displayLabel.setOpaque(true);
 
-            
+            displayPanel.setLayout(new BorderLayout());
+            displayPanel.add(displayLabel);
+            frame.add(displayPanel, BorderLayout.NORTH);
         }
     }
