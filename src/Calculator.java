@@ -136,6 +136,16 @@
                                 if(!displayLabel.getText().contains(buttonValue)){
                                     displayLabel.setText(displayLabel.getText() + buttonValue);
                                 }
+                            }else if(buttonValue == "√"){
+
+                                double numDisplay = Double.parseDouble(displayLabel.getText());
+                                if(numDisplay >= 0){
+                                    numDisplay = Math.sqrt(numDisplay);
+                                    displayLabel.setText(removeZeroDecimal(numDisplay));
+                                }
+                                else{
+                                    displayLabel.setText("Error");
+                                }
                             }
                             else if("0123456789".contains(buttonValue)){
                                 if(displayLabel.getText() == "0"){
