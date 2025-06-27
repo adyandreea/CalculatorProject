@@ -36,7 +36,6 @@
 
 
         Calculator(){
-            frame.setVisible(true);
             frame.setSize(boardWidth,boardHeight);
             frame.setLocationRelativeTo(null); //Așază fereastra în centru pe ecran
             frame.setResizable(false);
@@ -159,6 +158,7 @@
                     }
                 });
             }
+            frame.setVisible(true);
         }
 
         void clearAll(){
