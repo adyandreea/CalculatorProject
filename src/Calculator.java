@@ -115,11 +115,7 @@
                             }
                         }
                         else if(Arrays.asList(topSymbols).contains(buttonValue)){
-                            if(buttonValue == "AC"){
-                                clearAll();
-                                displayLabel.setText("0");
-                            }
-                            else if(buttonValue == "+/-"){
+                            if(buttonValue == "+/-"){
                                 double numDisplay = Double.parseDouble(displayLabel.getText());
                                 numDisplay *= -1;
                                 displayLabel.setText(removeZeroDecimal(numDisplay));
