@@ -115,11 +115,6 @@
                             }
                         }
                         else if(Arrays.asList(topSymbols).contains(buttonValue)){
-                            if(buttonValue == "+/-"){
-                                double numDisplay = Double.parseDouble(displayLabel.getText());
-                                numDisplay *= -1;
-                                displayLabel.setText(removeZeroDecimal(numDisplay));
-                            }
                             else if(buttonValue == "%"){
                                 double numDisplay = Double.parseDouble(displayLabel.getText());
                                 numDisplay /= 100;
