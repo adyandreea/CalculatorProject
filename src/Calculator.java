@@ -96,7 +96,7 @@
                                     else if(operator == "-"){
                                         displayLabel.setText(removeZeroDecimal(numA - numB));
                                     }
-                                    else if(operator == "*"){
+                                    else if(operator == "×"){
                                         displayLabel.setText(removeZeroDecimal(numA * numB));
                                     }
                                     else if(operator == "÷"){
