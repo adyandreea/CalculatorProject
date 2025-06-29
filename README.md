@@ -1,5 +1,5 @@
   <h1 align="center"><strong><em>Java Swing Calculator</strong></em></h1>
-<p align="center"><img src="demo/img.png" height=500 width=600></p>
+<p align="center"><img src="demo/img.png" height=600 width=600></p>
   
 # How to run the app?
 
