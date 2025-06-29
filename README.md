@@ -9,5 +9,5 @@
 * After that clone the repository and run the app.
 
 <h1 align="center"><strong>Demonstration</strong></h1>
-<p align="center"><img src="demo/record_2025-06-29_22-42-53-ezgif.com-video-to-gif-converter.gif" height=1072 width=700></p>
+<p align="center"><img src="demo/record_2025-06-29_22-42-53-ezgif.com-video-to-gif-converter.gif" height=700 width=400></p>
 
