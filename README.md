@@ -1,4 +1,4 @@
-<h1 align="center"><strong><em>Java Swing Calculator</strong></em></h1>
+  <h1 align="center"><strong><em>Java Swing Calculator</strong></em></h1>
 <p align="center"><img src="demo/png-transparent-calculator-app-icon-ios-iphone-2d-simple-symbol" alt="calculator_project" height=300 width=600></p>
   
 # How to run the app?
