@@ -1,5 +1,5 @@
 <h1 align="center"><strong><em>Java Swing Calculator</strong></em></h1>
-<p align="center"><img src="png-transparent-calculator-app-icon-ios-iphone-2d-simple-symbol" alt="calculator_project" height=300 width=600></p>
+<p align="center"><img src="demo/png-transparent-calculator-app-icon-ios-iphone-2d-simple-symbol" alt="calculator_project" height=300 width=600></p>
   
 # How to run the app?
 
@@ -9,5 +9,5 @@
 * After that clone the repository and run the app.
 
 <h1 align="center"><strong>Demonstration</strong></h1>
-<p align="center"><img src="calculator-image" height=425 width=1000></p>
+<p align="center"><img src="demo/calculator-image" height=425 width=1000></p>
 
