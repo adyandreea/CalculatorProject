@@ -1,6 +1,6 @@
 <h1 align="center"><strong><em>Java Swing Calculator</strong></em></h1>
 <p align="center"><img src="https://img.icons8.com/color/512/apple-calculator.png" height=300 width=300></p>
-  
+   
 # How to run the app?
 
 <p>To run this application: </p> 
